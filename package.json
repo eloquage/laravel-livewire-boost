@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "prettier": "npx prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
+}

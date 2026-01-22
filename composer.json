@@ -1,0 +1,20 @@
+{
+    "name": "eloquage/laravel-livewire-boost",
+    "description": "Livewire Boost planning guidelines for AI agents.",
+    "license": "MIT",
+    "homepage": "https://github.com/eloquage/laravel-livewire-boost",
+    "support": {
+        "issues": "https://github.com/eloquage/laravel-livewire-boost/issues",
+        "source": "https://github.com/eloquage/laravel-livewire-boost"
+    },
+    "authors": [
+        {
+            "name": "Miguel Enes",
+            "email": "me@miguelenes.com"
+        }
+    ],
+    "require": {
+        "filament/support": "^5.0",
+        "laravel/boost": "^1.8"
+    }
+}
