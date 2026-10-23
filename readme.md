@@ -1,7 +1,15 @@
 # Livewire Boost
 
+![Livewire Boost](art/banner.png)
+
 **A Laravel Boost extension that helps AI agents produce accurate, detailed
 implementation plans for Livewire v4.**
+
+## Requirements
+
+- PHP 8.2 or later
+- Laravel Boost 1.8 or 2.x
+- Filament 5
 
 ## Setup
 
@@ -41,7 +49,8 @@ Only task owners can edit or delete their tasks.
 ```
 
 The agent will produce a detailed specification document ready for direct
-implementation, no guessing required.
+implementation. The planning guide asks for clarification when requirements
+leave important implementation choices open.
 
 ## What's Included
 

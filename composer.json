@@ -15,6 +15,6 @@
     ],
     "require": {
         "filament/support": "^5.0",
-        "laravel/boost": "^1.8"
+        "laravel/boost": "^1.8 || ^2.0"
     }
 }
